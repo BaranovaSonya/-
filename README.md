@@ -14,4 +14,4 @@
 Законы поглощения:
 13.А или (А и В)=А
 
-![lagrida_latex_editor](https://user-images.githubusercontent.com/114420047/198191984-9fb9169f-c330-4426-b050-8e2e874f90a7.png)
+![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114420047/198193009-afd8621c-f48c-4e20-9074-be47f9003f89.png)
