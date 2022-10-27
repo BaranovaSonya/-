@@ -13,4 +13,5 @@
 - Пример закона логики:
 Законы поглощения:
 13.А или (А и В)=А
+
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114420047/198191984-9fb9169f-c330-4426-b050-8e2e874f90a7.png)
