@@ -21,3 +21,5 @@ $$E\overline{1}^{2}=\sqrt{\frac{(Fa^{x-1} )}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}
 
 $$ \sum_{}^{}F\overrightarrow{}=ma\overrightarrow{}$$
 ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114420047/200735485-fe0f5ae4-f88a-4c89-be38-1c30399cb316.png)
+x_{1,2}=\frac{-b\pm \sqrt{D}}{2a}
+![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114420047/200737545-ca1fdc5c-8a5f-44ef-b0bc-41ffceb6b0fa.png)
