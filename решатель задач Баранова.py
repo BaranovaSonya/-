@@ -2,33 +2,53 @@ print("Какую задачу нужно решить: a,b,c")
 a = "a) кодирование информации"
 b = "b) кодирование звука"
 c = "c) кодирование изображения"
-print(a, b, c)
-bukva=input("Выберите вид задачи")
+print(a)
+print(b)
+print(c)
+bukva = input("Выберите вид задачи")
 print("вид задачи")
-if bukva == a:
+if bukva == "a":
     print("выбор неизвестного: I,N,i,K")
+    a = "I) информацинный объем"
+    b = "N) мощность алфавита(кол-во символовв алфавите)"
+    c = "i) вес одного символа"
+    d = "K) число знаков в тексте"
+    print(a)
+    print(b)
+    print(c)
+    print(d)
     neizvestnoe = input()
-    if neizvestnoe == N:
-        i=(input)
-        print(N = 2^i)
-    elif neizvestnoe == I:
-        i =(input)
-        K =(input) 
-        print(I = K*i)
-    elif neizvestnoe == i:
-        I =(input)
-        K =(input)
-        print(i = I\K)
-    elif neizvestnoe == K:
-        I =(input)
-        i =(input)
-        print(K = I\i)
+    
+    if neizvestnoe == "I":
+        print("Введите i")
+        i = int(input())
+        print("Введите K")
+        K = int(input())
+        I = K*i
+        print(I)
+    elif neizvestnoe == "N":
+        print("Введите i")
+        i= int(input())
+        N = 2**i
+        print(N)
+    elif neizvestnoe == "i":
+        print("Введите I")
+        I = int(input())
+        print("Введите K")
+        K = int(input())
+        i = I/K
+        print(i)
+    elif neizvestnoe == "K":
+        print("Введите I")
+        I = int(input())
+        print("Введите i")
+        i = int(input())
+        K = I/i
+        print(K)
                    
         
-        if bukva == b:
-        print("выбор неизвестного: I,v,i,Ch,t")
-        
-        if bukva == c:
-        print("выбор неизвестного: 
+   
+
+     
             
 
