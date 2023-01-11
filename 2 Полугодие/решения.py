@@ -7,7 +7,8 @@ def f5():
             b = '1' + b + '01'
         if int(b, 2) > 516:
             print (N)
-            break 
+            break     
+   
 def f6():
   from turtle import *
  left(90)
@@ -20,3 +21,4 @@ def f6():
             goto(x*30,y*30)
             dot(5)
     done()
+
