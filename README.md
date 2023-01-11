@@ -2,7 +2,7 @@
 ![msg1039790495-58812](https://user-images.githubusercontent.com/114420047/211202855-98ef0e12-d022-4de8-bb29-4ab34867dee4.jpg)
 # список файлов:
 #### 
- https://github.com/BaranovaSonya/-/blob/main/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D1%82%D0%B4.xlsx 
+ -таблица умножения и тд.xlsx
  - markdown.pdf 
 - таблица умножения .py
 - сиcтемы счислений.xlsx
