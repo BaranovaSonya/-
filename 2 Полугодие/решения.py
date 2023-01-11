@@ -10,8 +10,8 @@ def f5():
             break 
 def f6():
   from turtle import *
-  left(90)
-  for i in range(7):
+ left(90)
+ for i in range(7):
     forward(300)
     right(120)
     pu()
