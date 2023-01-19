@@ -39,7 +39,7 @@ def f8():
                 k+=1
     print(k)
     
-#список простыых чисел)#
+
 def f12():
     spisok=[]
     for num in range(2,1000):
