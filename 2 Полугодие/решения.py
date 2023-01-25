@@ -55,3 +55,12 @@ def f12():
             if y*4+105==i and flag==False:
                 print(y, i)
                 flag=True
+
+def f14():
+    alf = '0123456789abcde'
+    for x in alf:
+        f = int(f'123{x}5', 15)+int(f'1{x}233', 15)
+        if f%14 == 0:
+            print (x, f//14)
+            break
+
