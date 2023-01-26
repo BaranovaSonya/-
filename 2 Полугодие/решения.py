@@ -48,13 +48,16 @@ def f12():
         if i%y==0 : n+=1
 
       if n==0:sp.append(i)
-
-    flag=False
-    for i in sp:
+        print (sp)
+        for i in sp:
         for y in range (100):
-            if y*4+105==i and flag==False:
-                print(y, i)
-                flag=True
+            if y*4+105==i:
+                print(y)
+  sp = []
+  for num in range(2,1000):
+    for x in range(2, (num - 1):
+                    if all((num%x!=0)for x in range(2, (num - 1)):
+                           sp.append(num)
 
 def f14():
     alf = '0123456789abcde'
