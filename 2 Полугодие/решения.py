@@ -78,7 +78,25 @@ def f15():
                    print(a)
                    break
 
-                           
+
+from itertools import product
+def f23(x,y,z):
+    count=0
+    for i in range(1,z):
+        nums=product('12',repeat=i)
+        for numb in nums:
+            #numb=''.join(n)
+            a=x
+            if x==10 and numb.count('2')>1:continue
+            for ii in numb:
+                if a==17: break 
+                if ii=='1':a+=1
+                elif ii=='2' :a*=2
+
+            if a==y: count+=1
+    return count
+                
+print(f23(1,10,10)*f23(10,35,25))
 дадада                           
 from itertools import product
 for i in range(2,6):
