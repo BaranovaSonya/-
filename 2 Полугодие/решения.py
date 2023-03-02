@@ -95,8 +95,20 @@ def f23(x,y,z):
 
             if a==y: count+=1
     return count
-                
+ 
 print(f23(1,10,10)*f23(10,35,25))
+                           
+   
+       27 задание                    
+with open('27_A.txt')as f:
+    s = [x for x in f]
+    s.pop(0)
+print(s)
+d =[]
+for i in s:
+    d.append(i.split())
+print(d[0][1])                        
+                           
 дадада                           
 from itertools import product
 for i in range(2,6):
